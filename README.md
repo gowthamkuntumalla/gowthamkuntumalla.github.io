@@ -1,2 +1,0 @@
-# startbootstrap-resume-gh-pages
- 
